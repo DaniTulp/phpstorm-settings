@@ -1,8 +1,8 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="vagrant:///Users/lucy/Documents/projects/debo/greenworld/usr/bin/php" id="33695166-b541-4512-ba60-99396c9f37b2" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Documents/projects/debo/greenworld" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="vagrant:///Users/dani/projects/debo/greenworld/usr/bin/php" id="33695166-b541-4512-ba60-99396c9f37b2" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="$USER_HOME$/projects/debo/greenworld" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="/usr/local/bin/php" id="5bcf763a-f8ee-4226-9a11-c70befd1b051" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
     </interpreters>
