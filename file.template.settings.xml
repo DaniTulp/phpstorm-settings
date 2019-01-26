@@ -3,5 +3,8 @@
     <default_templates>
       <template name="Vue File.vue" reformat="true" live-template-enabled="true" />
     </default_templates>
+    <includes_templates>
+      <template name="PHP File Header.php" reformat="true" live-template-enabled="false" enabled="false" />
+    </includes_templates>
   </component>
 </application>
