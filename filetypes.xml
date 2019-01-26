@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="stub" type="PHP" />
       <mapping pattern="keyTs_" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="14ac35810a382da90f879c9291edcb6259d3eaef" type="PLAIN_TEXT" />
