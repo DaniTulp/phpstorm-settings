@@ -11,6 +11,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="postcss" type="PostCSS" />
     </extensionMap>
   </component>
 </application>
