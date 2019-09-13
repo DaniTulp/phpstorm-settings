@@ -25,6 +25,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="21507e66-997c-4d75-ad6a-b0134d2f2420" name="Weekendwebshop" url="http://weekendwebshop.nl">
+        <fileTransfer host="weekendwebshop.nl" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
