@@ -4,7 +4,7 @@
     <property name="created">2017-07-13T15:40:00</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2019-10-23T18:57:25</property>
+    <property name="modified">2019-10-23T20:46:37</property>
     <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -2066,6 +2066,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="f05b00" />
         <option name="EFFECT_COLOR" value="b58900" />
         <option name="ERROR_STRIPE_COLOR" value="b58900" />
         <option name="EFFECT_TYPE" value="2" />
