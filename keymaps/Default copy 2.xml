@@ -1,5 +1,0 @@
-<keymap version="1" name="Default copy 2" parent="Mac OS X 10.5+">
-  <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="ctrl meta l" />
-  </action>
-</keymap>
