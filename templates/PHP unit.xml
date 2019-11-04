@@ -1,0 +1,9 @@
+<templateSet group="PHP unit">
+  <template name="@test" value="/** @test */ &#10;$NAME$&#10;public function $SNAKENAME$()&#10;{&#10;      $END$&#10;}" description="Test case" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAKENAME" expression="snakeCase(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>
