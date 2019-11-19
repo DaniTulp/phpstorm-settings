@@ -3,7 +3,7 @@
     <property name="created">2019-11-19T18:37:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-11-19T20:48:38</property>
+    <property name="modified">2019-11-19T19:24:44</property>
     <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
   <colors>
@@ -1527,7 +1527,9 @@
       </value>
     </option>
     <option name="PHP_VAR">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="f05b00" />
+      </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
