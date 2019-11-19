@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="8ebc5279-2c18-4cf4-98b8-25d92f7ed7a2" name="jobber" url="http://studentjobber.nl">
+        <fileTransfer host="studentjobber.nl" port="21" rootFolder="/domains/studentjobber.nl/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="2ad838dd-3b35-4eff-945d-26a672b422b9" name="sparklingpeople" url="http://sparklingpeople.nl">
         <fileTransfer host="sparklingpeople.nl" port="21" rootFolder="/sterrenoffice.nl">
           <advancedOptions>
