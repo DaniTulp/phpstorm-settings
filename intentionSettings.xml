@@ -1,5 +1,7 @@
 <application>
   <component name="IntentionManagerSettings">
-    <ignoreAction name="PHP/Generate PHPDoc for function" />
+    <ignoreAction name="PHP/Convert string literal to HEREDOC/NOWDOC" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="XML/Expand empty tag" />
   </component>
 </application>

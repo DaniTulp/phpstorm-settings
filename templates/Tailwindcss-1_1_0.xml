@@ -1,9 +1,0 @@
-<templateSet group="Tailwindcss-1.1.0">
-  <template name="-m-1" value="-m-1" description="margin: -0.25rem;" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="DART" value="true" />
-      <option name="Handlebars" value="true" />
-      <option name="PHP Class Member" value="false" />
-    </context>
-  </template>
-</templateSet>

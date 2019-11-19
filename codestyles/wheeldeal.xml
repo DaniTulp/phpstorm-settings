@@ -1,7 +1,0 @@
-<code_scheme name="wheeldeal" version="173">
-  <PHPCodeStyleSettings>
-    <option name="FIELDS_DEFAULT_VISIBILITY" value="protected" />
-    <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
-    <option name="PHPDOC_USE_FQCN" value="true" />
-  </PHPCodeStyleSettings>
-</code_scheme>
