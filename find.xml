@@ -16,5 +16,6 @@
     <mask>*.ctp</mask>
     <mask>*.php</mask>
     <mask>*blade.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>

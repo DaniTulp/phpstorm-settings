@@ -3,7 +3,7 @@
     <property name="created">2019-11-19T18:37:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-11-19T20:49:58</property>
+    <property name="modified">2019-12-17T10:46:41</property>
     <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
   <colors>
@@ -692,7 +692,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="2aa198" />
+        <option name="FOREGROUND" value="a13975" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
